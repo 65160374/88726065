@@ -19,11 +19,11 @@ document.addEventListener("DOMContentLoaded", function () {
     }
     }
     // // ลบรายการ Todo
-    // function deleteTodo(index) {
-    // todos.splice(index, 1);
-    // renderTodoList();
-    // }
-    // // ตรวจสอบ/ยกเลิกการเสร็จสิ้นรายการ Todo
+    function deleteTodo(index) {
+    todos.splice(index, 1);
+    renderTodoList();
+    }
+    // ตรวจสอบ/ยกเลิกการเสร็จสิ้นรายการ Todo
     // function toggleComplete(index) {
     // todos[index].completed = !todos[index].completed;
     // renderTodoList();
