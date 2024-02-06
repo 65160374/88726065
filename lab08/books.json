@@ -1,0 +1,27 @@
+{
+    "books": [
+      {
+        "id": 1,
+        "name": "กล้าที่จะถูกเกลียด",
+        "price": "240",
+        "author1": "คิชิมิ อิชิโร่",
+        "author2": "โคะกะ ฟุมิทาเกะ"
+      },
+      {
+        "id": 2,
+        "name": "The Intelligent Investor คัมภีร์การลงทุนแบบเน้นคุณค่า",
+        "price": "535",
+        "author1": "Warren E. Buffet",
+        "author2": "Jason Sweig"
+      },
+      {
+        "id": 3,
+        "name": "FACTFULNESS จริง ๆ แล้วโลกดีขึ้นทุกวัน",
+        "price": "354",
+        "author1": "ฮันส์ โรสลิง",
+        "author2": "โอลา โรสลิง",
+        "author3": "อันนา เรินน์ลุนด์"
+      }
+    ]
+  }
+  
